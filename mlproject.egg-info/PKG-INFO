@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: saurabh
+Author-email: saurabhvns24@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
